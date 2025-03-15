@@ -1,6 +1,6 @@
 # 👋 About me...
 
-I am a Master's student in **Computer Science** at NCHU and a member of the **NLP lab**. My research primarily focuses on **LLM** and **RAG** for question-answering systems. My interests extend to software engineering and backend development.
+I am a Master's student in **Computer Science** at NCHU and a member of the **NLP lab**. My research primarily focuses on **LLM** and **RAG** for question-answering systems. Additionally, I have a strong interest in software engineering and backend development.
 
 ## 🛠️ Tech Stack
 
