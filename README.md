@@ -6,7 +6,6 @@ I am a Master's student in **Computer Science** at NCHU and a member of the **NL
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://github.com/milvus-io/artwork/blob/master/horizontal/color/milvus-horizontal-color.png?raw=true" alt="Milvus" width="150" height="50"/>
@@ -27,16 +26,9 @@ I am a Master's student in **Computer Science** at NCHU and a member of the **NL
 </picture>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://leetcard.jacoblin.cool/coby0228?theme=dark&font=Baloo%202" alt="LeetCode 統計" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coby0228&layout=compact&theme=dark" alt="最常用語言" />
-      </td>
-    </tr>
-  </table>
+  <td>
+    <img src="https://leetcard.jacoblin.cool/coby0228?theme=dark&font=Baloo%202" alt="LeetCode 統計" />
+  </td>
 </div>
 
 ## 📫 Get in Touch
